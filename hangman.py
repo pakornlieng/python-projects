@@ -1,3 +1,5 @@
+#Hi my name is pakorn and this is my attempt at hangman.
+
 from random import randint as r
 
 hangman = ['''
